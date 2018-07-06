@@ -1,0 +1,17 @@
+.instaimg img {
+	margin-bottom:30px;
+	border-radius: 10px;
+}
+.instaimg img:hover {
+	opacity:0.8;
+	-moz-opacity:0.8;
+	-webkit-opacity:0.8;
+}
+
+#instafeed {
+	margin-top: 50px;
+}
+
+h1 {
+	text-align: center;
+}
